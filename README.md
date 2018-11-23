@@ -4,6 +4,7 @@ Date | Title | Institution/Conference/Workshop | Type
 ---- | ----- | ------------------------------- | ----
 January 2018 | Horizontales Skalieren von Deep Learning Frameworks | [Karlsruhe University of Applied Sciences](https://www.hs-karlsruhe.de/en/) | Bachelor Thesis
 September 2018 | Parallelized Training of Deep NN – Comparison of Current Concepts and Frameworks | [Second Workshop on Distributed Infrastructures for Deep Learning (DIDL)](https://didl-conf.github.io)| Full Paper
+November 2018 | [Machine Learning im Kubernetes-Cluster](https://www.heise.de/developer/artikel/Machine-Learning-im-Kubernetes-Cluster-4226233.html) | [Heise Developer](https://www.heise.de/developer/) | Article
 
 
 
