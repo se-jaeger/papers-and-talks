@@ -1,4 +1,8 @@
-# Publications
+# Deprecation Warning
+
+**This content can be possibly deprecated! See: https://sebastian-jaeger.me**
+
+## Publications
 
 Date | Title | Institution/Conference/Workshop | Type
 ---- | ----- | ------------------------------- | ----
@@ -8,7 +12,7 @@ January 2018 | Horizontales Skalieren von Deep Learning Frameworks | [Karlsruhe 
 
 
 
-# Talks
+## Talks
 
 Date | Title | Event 
 ---- | ----- | ----
